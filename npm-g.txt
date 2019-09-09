@@ -1,0 +1,4 @@
+HEROKU DOWNLOAD
+postman robo 3t
+powershell
+ c:\users\gabriel\mongodb\bin\mongod.exe --dbpath=/users/gabriel/mongodb-data

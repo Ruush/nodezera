@@ -10,4 +10,3 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-task-manager/src/emails/account.js
