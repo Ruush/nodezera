@@ -1,13 +1,2 @@
-node_modules/**/*
-*/node_modules/*
-/node_modules/
-.expo/*
-npm-debug.*
-*.jks
-*.p12
-*.key
-*.mobileprovision
-*.orig.*
-web-build/
-web-report/
-task-manager/src/emails/account.js
+node_modules
+config
