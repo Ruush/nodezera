@@ -1,4 +1,10 @@
 HEROKU DOWNLOAD
 postman robo 3t
+
 powershell
  c:\users\gabriel\mongodb\bin\mongod.exe --dbpath=/users/gabriel/mongodb-data
+ 
+cd c:/users/gabriel/Documents/Projetos/nodezera
+git subtree push --prefix task-manager heroku master
+cd c:/users/gabriel/Documents/Projetos/nodezera/task-manager
+cd
